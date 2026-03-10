@@ -1,6 +1,6 @@
 name: "waggle-aqt"
-description: "Captures & uploads meteorological and air quality conditions from a Vaisala AQT530 data stream."
-version: "0.23.5.04"
+description: "Captures & uploads meteorological and air quality conditions from a Vaisala AQT530 data stream. Supports interval-based averaging to reduce database load."
+version: "1.00"
 authors: "Joe O'Brien <obrienj@anl.gov>"
 collaborators: "Bhupendra Raut"
 funding: "Community Research on Climate and Urban Science (CROCUS)"

@@ -1,3 +1,5 @@
-pywaggle
+pywaggle==0.56.3
 pyserial
 parse
+pandas
+xarray
